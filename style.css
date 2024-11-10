@@ -29,8 +29,8 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  animation: scene 1s alternate forwards;
-  animation-delay: 5s;
+  animation: scene 5.5s alternate forwards;
+  animation-delay: 1s;
 }
 
 .scene-2 span {
